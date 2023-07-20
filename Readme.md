@@ -1,1 +1,1 @@
-Projeto para usa o git
+Projeto de daprendizado git 
